@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "validator.js": "^2.0.4",
+    "vite": "^4.3.9"
+  }
 }
